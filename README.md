@@ -1,9 +1,8 @@
 # PillViewController
 
-[![CI Status](https://img.shields.io/travis/whoiswillma/PillViewController.svg?style=flat)](https://travis-ci.org/whoiswillma/PillViewController)
-[![Version](https://img.shields.io/cocoapods/v/PillViewController.svg?style=flat)](https://cocoapods.org/pods/PillViewController)
-[![License](https://img.shields.io/cocoapods/l/PillViewController.svg?style=flat)](https://cocoapods.org/pods/PillViewController)
-[![Platform](https://img.shields.io/cocoapods/p/PillViewController.svg?style=flat)](https://cocoapods.org/pods/PillViewController)
+A container view controller that manages two child view controllers with a pill.
+
+
 
 ## Example
 

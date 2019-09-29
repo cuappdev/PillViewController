@@ -1,0 +1,23 @@
+PODS:
+  - PillViewController (1.0.0):
+    - SnapKit (~> 5.0.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - PillViewController (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PillViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PillViewController: 46d2ad2132356b844aea6376a9b4f59bf7b49bbe
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 54e45bad3ae8dbd6b64190501a1794a14dc7d4bd
+
+COCOAPODS: 1.7.5
