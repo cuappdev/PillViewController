@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PillViewController_Example' do
+  pod 'PillViewController', :path => '../'
+
+  target 'PillViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
