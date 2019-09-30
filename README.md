@@ -2,13 +2,21 @@
 
 A container view controller that manages two child view controllers with a pill.
 
-![Eatery Image Example](https://raw.githubusercontent.com/cuappdev/PillViewController/master/EateryPillViewController.jpeg)
+The `PillViewController` was developed for Eatery iOS. The pill is used to switch between campus and collegetown eateries. 
+
+<img src="https://raw.githubusercontent.com/cuappdev/PillViewController/master/EateryPillViewController.jpeg" alt="drawing" width="350"/>
+
+Eatery is open source! Check out the Eatery project here: https://github.com/cuappdev/eatery
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 11.
+
+Installing `PillViewController` also includes `SnapKit`. 
 
 ## Installation
 
@@ -21,7 +29,8 @@ pod 'PillViewController'
 
 ## Author
 
-whoiswillma, whoiswillma@gmail.com
+Initial implementation: Ethan Fine, usubzero@gmail.com
+Refinements and Pod Publication: William Ma, whoiswillma@gmail.com
 
 ## License
 
