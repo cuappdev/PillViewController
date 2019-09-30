@@ -2,7 +2,7 @@
 
 A container view controller that manages two child view controllers with a pill.
 
-![Eatery Image Example](https://raw.githubusercontent.com/cuappdev/PillViewController/master/EateryPillViewController.jpeg | width=200)
+![Eatery Image Example](https://raw.githubusercontent.com/cuappdev/PillViewController/master/EateryPillViewController.jpeg)
 
 ## Example
 
