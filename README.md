@@ -30,6 +30,7 @@ pod 'PillViewController'
 ## Author
 
 Initial implementation: Ethan Fine, usubzero@gmail.com
+
 Refinements and Pod Publication: William Ma, whoiswillma@gmail.com
 
 ## License
